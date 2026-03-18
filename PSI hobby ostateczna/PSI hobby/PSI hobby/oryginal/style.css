@@ -507,7 +507,7 @@ body{
     .main-header{
         text-align: center;
     }
-    .logo img {
+    .logo img{
         max-width: 250px;
         height: auto;
     }
@@ -536,30 +536,30 @@ body{
         padding: 15px;
     }
 
-    .main-grid, .gry-grid {
+    .main-grid, .gry-grid{
         grid-template-columns: 1fr;
     }
 
-    .gra-content {
+    .gra-content{
         height: auto;
         flex-direction: column;
     }
-    .gra-img {
+    .gra-img{
         height: 200px;
     }
-    .gra-img img {
+    .gra-img img{
         width: 100%;
         height: 100%;
         object-fit: cover;
     }
-    .gra-desc {
+    .gra-desc{
         padding: 15px;
     }
-    .filmik video {
+    .filmik video{
         width: 100%;
         height: auto;
     }
-    .napisglowna h2 {
+    .napisglowna h2{
         font-size: 1.2rem;
         padding: 10px;
     }
@@ -583,16 +583,4 @@ body{
     .wybor-siatka-kafelkow{
         grid-template-columns: 1fr;
     }
-}
-@media (max-width: 1024px){
-    
-}
-@media (max-width: 900px) {
-    
-}
-@media (max-width: 600px){
-    
-}
-@media (max-width: 850px) {
-    
 }
